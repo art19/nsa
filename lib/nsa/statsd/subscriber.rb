@@ -1,5 +1,3 @@
-require "statsd-ruby"
-
 module NSA
   module Statsd
     module Subscriber

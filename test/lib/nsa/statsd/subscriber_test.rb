@@ -1,4 +1,5 @@
 require_relative "../../../test_helper"
+require 'statsd-ruby'
 
 class SubscriberTest < ::Minitest::Test
 
